@@ -12,9 +12,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rinotemis/todolist/issues"
-  },
-  "homepage": "https://github.com/rinotemis/todolist#readme",
-  "description": ""
+
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
